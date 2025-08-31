@@ -1,0 +1,6 @@
+{
+  "name": "TerraPix",
+  "description": "Un puissant éditeur de photos IA. Retouchez, appliquez des filtres créatifs et effectuez des ajustements professionnels sur vos images à l'aide de simples instructions textuelles.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
